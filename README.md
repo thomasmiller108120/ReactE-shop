@@ -55,7 +55,7 @@ To run the backend server on your local machine, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Saurabh-8585/MERN-E-Commerce-Backend.git
+   git clone https://github.com/thomasmiller108120/ReactE-shop.git
    ```
 
 2. Install the dependencies:
